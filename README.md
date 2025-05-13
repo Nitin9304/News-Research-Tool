@@ -1,7 +1,4 @@
 # News-Research-Tool
 It is Based on Information Retrieval System (IRT) Project
 
-The News Research Tool is a web-based application that helps users search, analyze, and organize news articles from multiple sources in real-time. 
-It features advanced search filters, article summarization, and sentiment analysis to provide deeper insights into trending topics. 
-The tool also generates keyword clouds and allows users to save and categorize articles for easy reference.
-It is built using Python, NLP libraries, and external news APIs.
+The provided code implements a comprehensive News Research Tool using Streamlit, designed to assist users in efficiently searching, summarizing, and analyzing news articles and documents. It integrates multiple natural language processing (NLP) techniques and external APIs to deliver an interactive and intelligent experience. Users can perform Google searches using the Custom Search API or fetch recent news articles from specific categories through the NewsAPI. Retrieved articles are ranked for relevance using a combination of BM25 and cosine similarity based on TF-IDF vectors, allowing users to focus on the most pertinent content. Additionally, the tool allows users to upload PDF, DOCX, or TXT files and generates concise summaries using the Latent Semantic Analysis (LSA) method. Built-in text preprocessing (including tokenization, stopword removal, and stemming) and optional summarization of article content further enhance usability. With its clean interface and versatile features, this application serves as a valuable tool for researchers, students, and professionals seeking quick insights from vast textual information.
