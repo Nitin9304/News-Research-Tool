@@ -5,4 +5,6 @@ The provided code implements a comprehensive News Research Tool using Streamlit,
 
 ![alt_image](https://github.com/Nitin9304/News-Research-Tool/blob/cce503b4bdefaa8eb26d4ef12e59e46126bdc6a1/NRT.jpeg)
 
+![alt_image](https://github.com/Nitin9304/News-Research-Tool/blob/f2b498376fb5dd74dc0ffc9e14caa1cfd87808e8/Flow%20chart.jpg)
+
 ![image_alt](https://github.com/Nitin9304/News-Research-Tool/blob/77539a4912802a85d9b6091036b89e8757965530/Newspaper.jpg)
